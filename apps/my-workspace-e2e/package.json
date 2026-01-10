@@ -1,0 +1,10 @@
+{
+  "name": "@my-workspace/my-workspace-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@my-workspace/my-workspace"
+    ]
+  }
+}
