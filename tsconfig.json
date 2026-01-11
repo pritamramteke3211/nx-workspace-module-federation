@@ -8,6 +8,24 @@
     },
     {
       "path": "./apps/my-workspace"
+    },
+    {
+      "path": "./apps/react/with-remotes/shell-e2e"
+    },
+    {
+      "path": "./apps/react/with-remotes/shell"
+    },
+    {
+      "path": "./apps/react/with-remotes/remote1-e2e"
+    },
+    {
+      "path": "./apps/react/with-remotes/remote1"
+    },
+    {
+      "path": "./apps/react/with-remotes/myremote-e2e"
+    },
+    {
+      "path": "./apps/react/with-remotes/myremote"
     }
   ]
 }
